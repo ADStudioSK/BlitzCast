@@ -1,0 +1,198 @@
+﻿BlitzCast – LICENČNÉ PODMIENKY / LICENSE TERMS
+Verzia licencie 1.0 – október 2026
+Copyright (c) 2026 AD Studio. Všetky práva vyhradené. / All rights reserved.
+
+Slovenská verzia je rozhodujúca. Anglický preklad je uvedený nižšie.
+The Slovak version prevails. An English translation follows below.
+
+======================================================================
+SLOVENSKY
+======================================================================
+
+1. ČO JE TENTO PROGRAM
+BlitzCast (ďalej „Program“) je neoficiálny pomocný nástroj pre hráčov
+mapy DotA v hre Warcraft III. Autorom a držiteľom autorských práv k Programu
+(zdrojový kód, vzhľad okien, logo „štít s bleskom“, zvuky upozornení,
+preklady a dokumentácia) je AD Studio (ďalej „Autor“).
+
+2. ČO SMIETE
+Program je poskytovaný ZADARMO. Autor vám udeľuje nevýhradné, neprenosné
+a odvolateľné právo:
+  a) nainštalovať a používať Program na vlastných počítačoch na osobné,
+     nekomerčné účely;
+  b) zdieľať odkaz na oficiálne miesto na stiahnutie;
+  c) poslať nezmenenú kópiu celého balíka Programu (vrátane tohto súboru)
+     ďalšej osobe zadarmo;
+  d) ukazovať Program vo videách, streamoch a recenziách, a to aj
+     zarábajúcich, ak uvediete názov Programu a Autora.
+
+3. ČO NESMIETE
+Bez predchádzajúceho písomného súhlasu Autora nesmiete:
+  a) Program ani jeho časti predávať, prenajímať, pribaľovať k platenému
+     produktu alebo službe, ani za jeho poskytnutie žiadať odmenu;
+  b) Program upravovať, prekladať, dekompilovať alebo z neho vytvárať
+     odvodené diela a tie šíriť;
+  c) odstraňovať alebo meniť meno Autora, logo, tento súbor alebo odkazy
+     na oficiálne miesto na stiahnutie;
+  d) vydávať Program alebo jeho upravenú verziu za vlastné dielo;
+  e) používať názov „BlitzCast“ alebo logo Programu tak, aby vznikol
+     dojem, že váš produkt alebo služba pochádza od Autora;
+  f) nahrávať Program na iné stránky na stiahnutie ako oficiálne
+     (dôvod: bezpečnosť používateľov – len oficiálna verzia je overená).
+
+4. DOBROVOĽNÁ PODPORA
+Program je zadarmo. Akýkoľvek príspevok Autorovi je dobrovoľný dar, nie je
+platbou za Program a nevzniká ním nárok na podporu, nové funkcie, opravy
+ani vrátenie daru.
+
+5. VZŤAH K HRE A TRETÍM STRANÁM
+  a) Program NIE JE oficiálnym produktom spoločnosti Blizzard Entertainment
+     a nie je s ňou ani s autormi mapy DotA nijako spojený, sponzorovaný
+     ani nimi schválený.
+  b) Warcraft a Warcraft III sú ochranné známky spoločnosti Blizzard
+     Entertainment, Inc. DotA, názvy hrdinov, kúziel a predmetov a ich
+     popisné texty a číselné údaje pochádzajú z mapy DotA a patria ich
+     príslušným vlastníkom. V Programe sa používajú (aj v slovenskom
+     preklade) len na opis toho, s čím Program pracuje.
+  c) Program neobsahuje grafiku ani ikony hry. Ak ich zobrazuje, načítava
+     ich z kópie hry, ktorú máte legálne nainštalovanú vo svojom počítači.
+  d) Program nečíta ani nemení pamäť hry a nehrá za vás. Posiela stlačenia
+     klávesov a kliknutia, ktoré vyvoláte vy, a číta súbory, ktoré hra sama
+     ukladá (nastavenia klávesov, záznamy hier).
+  e) Za dodržiavanie podmienok používania hry a herných platforiem
+     zodpovedáte vy. Ak si nie ste istí, či je používanie takýchto nástrojov
+     povolené (napríklad na turnaji alebo v lige), overte si to vopred.
+
+6. SÚKROMIE
+Program neodosiela Autorovi žiadne vaše údaje. Nastavenia, štatistiky
+a záznamy hier zostávajú vo vašom počítači. Ak Program kontroluje novú
+verziu, stiahne iba číslo verzie z oficiálnej stránky.
+
+7. SÚČASTI TRETÍCH STRÁN
+Spustiteľný súbor Programu obsahuje interpret AutoHotkey, ktorý je šírený
+pod licenciou GNU General Public License v2 (https://www.autohotkey.com).
+Táto licencia sa vzťahuje na interpret AutoHotkey, nie na Program samotný.
+Zdrojový kód AutoHotkey je dostupný na uvedenej adrese.
+
+8. BEZ ZÁRUKY
+Program sa poskytuje „TAK, AKO JE“, bez akejkoľvek záruky, výslovnej alebo
+mlčky predpokladanej, vrátane záruky funkčnosti, vhodnosti na konkrétny
+účel a neporušenia práv tretích strán. Program používate na vlastné riziko.
+
+9. OBMEDZENIE ZODPOVEDNOSTI
+V rozsahu, v akom to právne predpisy dovoľujú, Autor nezodpovedá za žiadne
+škody vzniknuté používaním alebo nemožnosťou používania Programu, najmä za
+stratu údajov, nefunkčné nastavenia hry, obmedzenie alebo zrušenie herného
+účtu a ušlý zisk.
+
+10. UKONČENIE
+Ak tieto podmienky porušíte, vaše oprávnenie Program používať a šíriť
+automaticky zaniká a ste povinní všetky kópie odstrániť. Autor môže tieto
+podmienky pre budúce verzie Programu zmeniť.
+
+11. ROZHODNÉ PRÁVO
+Tieto podmienky sa riadia právom Slovenskej republiky, najmä zákonom
+č. 185/2015 Z. z. (Autorský zákon). Ak sa niektoré ustanovenie ukáže ako
+neplatné, ostatné zostávajú v platnosti.
+
+12. KONTAKT
+Súhlas s iným použitím (napr. preklad, zaradenie do balíka, spolupráca):
+[doplniť e-mail alebo odkaz na kanál]
+Oficiálne miesto na stiahnutie: [doplniť odkaz]
+
+======================================================================
+ENGLISH (translation for convenience)
+======================================================================
+
+1. WHAT THIS PROGRAM IS
+BlitzCast (the "Program") is an unofficial helper tool for players of
+the DotA map in Warcraft III. The author and copyright holder of the Program
+(source code, window designs, the "shield with lightning bolt" logo, alert
+sounds, translations and documentation) is AD Studio
+(the "Author").
+
+2. WHAT YOU MAY DO
+The Program is provided FREE OF CHARGE. The Author grants you a
+non-exclusive, non-transferable, revocable right to:
+  a) install and use the Program on your own computers for personal,
+     non-commercial purposes;
+  b) share the link to the official download location;
+  c) give an unmodified copy of the complete Program package (including
+     this file) to another person free of charge;
+  d) show the Program in videos, streams and reviews, including monetised
+     ones, provided you name the Program and the Author.
+
+3. WHAT YOU MAY NOT DO
+Without the Author's prior written permission you may not:
+  a) sell, rent or bundle the Program or any part of it with a paid product
+     or service, or charge for providing it;
+  b) modify, translate, decompile or create derivative works of the Program
+     and distribute them;
+  c) remove or alter the Author's name, the logo, this file or the links to
+     the official download location;
+  d) present the Program or a modified version as your own work;
+  e) use the name "BlitzCast" or the Program's logo in a way that
+     suggests your product or service comes from the Author;
+  f) upload the Program to download sites other than the official one
+     (reason: user safety - only the official build is verified).
+
+4. VOLUNTARY SUPPORT
+The Program is free. Any contribution to the Author is a voluntary gift, is
+not payment for the Program and creates no entitlement to support, new
+features, fixes or a refund.
+
+5. RELATIONSHIP TO THE GAME AND THIRD PARTIES
+  a) The Program is NOT an official product of Blizzard Entertainment and
+     is not affiliated with, sponsored or endorsed by Blizzard Entertainment
+     or the authors of the DotA map.
+  b) Warcraft and Warcraft III are trademarks of Blizzard Entertainment,
+     Inc. DotA, the names of heroes, spells and items and their descriptive
+     texts and numbers come from the DotA map and belong to their respective
+     owners. They are used (also in Slovak translation) only to describe
+     what the Program works with.
+  c) The Program contains no game artwork or icons. Where it displays them,
+     it loads them from the copy of the game legally installed on your own
+     computer.
+  d) The Program does not read or modify game memory and does not play for
+     you. It sends key presses and clicks that you trigger, and reads files
+     the game itself saves (key settings, replays).
+  e) You are responsible for complying with the terms of the game and of any
+     gaming platform. If you are not sure whether such tools are allowed
+     (for example in a tournament or league), check beforehand.
+
+6. PRIVACY
+The Program sends none of your data to the Author. Settings, statistics and
+replays stay on your computer. If the Program checks for a new version, it
+only downloads the version number from the official site.
+
+7. THIRD-PARTY COMPONENTS
+The Program's executable contains the AutoHotkey interpreter, distributed
+under the GNU General Public License v2 (https://www.autohotkey.com). That
+licence applies to the AutoHotkey interpreter, not to the Program itself.
+AutoHotkey source code is available at that address.
+
+8. NO WARRANTY
+The Program is provided "AS IS", without warranty of any kind, express or
+implied, including warranties of fitness for a particular purpose and
+non-infringement. You use the Program at your own risk.
+
+9. LIMITATION OF LIABILITY
+To the extent permitted by law, the Author is not liable for any damage
+arising from the use of or inability to use the Program, including loss of
+data, broken game settings, restriction or closure of a game account and
+lost profit.
+
+10. TERMINATION
+If you breach these terms, your permission to use and share the Program
+ends automatically and you must delete all copies. The Author may change
+these terms for future versions of the Program.
+
+11. GOVERNING LAW
+These terms are governed by the law of the Slovak Republic, in particular
+Act No. 185/2015 Coll. (Copyright Act). If any provision is found invalid,
+the remaining provisions stay in force.
+
+12. CONTACT
+Permission for other uses (translation, bundling, cooperation):
+[add e-mail or channel link]
+Official download location: [add link]
